@@ -1,0 +1,183 @@
+.navbar{
+	background-color: #0000007a;
+	border: 0;
+	text-transform: uppercase;
+	
+	
+
+}
+.navbar-default .navbar-nav li a{
+	letter-spacing: 0.3rem;
+	text-transform: uppercase;
+	
+}
+
+.navbar h1{
+	color: white;
+	padding: 0;
+	margin-bottom: 0px;
+	margin-top: 5px;
+	
+
+
+}
+nav ul li a{
+	font-size: 15px;
+	
+}
+
+div.col-md-4{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	text-align:center;
+}
+
+div.col-md-4 img{
+	width: 100%;
+  height: auto; 
+
+}
+
+div.container h1{
+	color: white;
+	font-size: 50px;
+	text-align: center;
+}
+body, html {
+	height: 100%;
+
+}
+body{
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: sans-serif;
+}
+div #lista{
+	color: white;
+}
+img.center{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	width: 50%;
+	border-radius: 50%;
+
+}
+div .onamapanel{
+	border: 0;
+	background-color:#3a575f;
+    color: white;
+    font-size: 25px;
+    padding: 15px;
+}
+
+div.carousel-caption{
+
+	color: black;
+}
+
+
+div .form-group label{
+	color: white;
+}
+div .panel-heading{
+	background-color: rgb(217,217,217);
+}
+a.btn.btn-primary{
+	width: 100px;
+}
+section#slajder{
+	
+	width: 75%;
+	margin: auto;
+}
+
+footer{
+
+	background-color: #0000007a;
+	color: white;
+	left: 0;
+	bottom: 0;
+	height: 200px;
+	width: 100%;
+	text-transform: uppercase;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	overflow: hidden;
+	font-size: 18px;
+
+
+}
+footer a{
+	color: white ;
+	transition: color 0.3s ease-in;
+	padding: 10px;
+
+}
+
+footer a:hover{
+	color: #21c2f8;
+	text-decoration: none;}
+
+	section#ikonice{
+		padding-top: 25px;
+	}
+
+section#ikonice a{
+	text-align: center;
+	font-size: 30px;
+	margin-right: 10px;
+	margin-left: 10px;
+
+}
+footer ul.list-inline{
+	padding-bottom: 10px;
+}
+footer ul.list-inline a{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+footer p{
+	font-size: 15px;
+}
+ul#mapa li {
+	font-size: 25px;
+	color: white;
+}
+ul#mapa li a{
+	color: white;
+}
+ul#mapa li a:hover{
+	color: #21c2f8;
+}
+
+div.onamapanel address{
+	font-size: 17px;
+	
+
+}
+div.onamapanel{
+	background-color: black;
+
+
+}
+div#onamakontejner a.btn{
+	margin: 10px; 
+
+
+}
+
+div#carousel-example-generic{
+	margin-bottom: 10px;
+}
+img#logo.img-responsive{
+	height: 50px;
+
+}
+.font-size-15{
+	font-size: 20px;
+}
+
+div#panel panel-default{
+	overflow: auto;
+}
